@@ -1,24 +1,24 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1565515693554.000,
+    "created" : 1565524740890.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "42425513",
-    "lastKnownWriteTime" : 1565524823,
-    "last_content_update" : 1565524823680,
-    "path" : "~/Blogdown_academic/content/home/tags.md",
-    "project_path" : "content/home/tags.md",
+    "id" : "D82D1AAD",
+    "lastKnownWriteTime" : 1565524746,
+    "last_content_update" : 1565524746541,
+    "path" : "~/Blogdown_academic/content/home/featured.md",
+    "project_path" : "content/home/featured.md",
     "properties" : {
-        "cursorPosition" : "4,14",
+        "cursorPosition" : "7,14",
         "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
     ],
-    "relative_order" : 8,
+    "relative_order" : 18,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "markdown"
