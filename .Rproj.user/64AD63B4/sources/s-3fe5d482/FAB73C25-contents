@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Samir Benjelloun is an economist and teacher living in Sweden. His interests include creading Web applications for ecudational purposes and development economics.
+I am an economist and teacher living in Sweden. My interests include creating Web applications for educational purposes and general reading of development economics litterature.
