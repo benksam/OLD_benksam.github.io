@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Economist and Teacher</title>
+    <link>/tags/deep-learning/</link>
+      <atom:link href="/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>R Shiny Applications</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Here is a link of &lt;a href=&#34;https://sanktpetriskole.shinyapps.io/MyApp6/&#34; target=&#34;_blank&#34;&gt;my Shiny Apps&lt;/a&gt; &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sanktpetriskole.shinyapps.io/MyApp6/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://community.rstudio.com/uploads/default/original/2X/e/eb5dc81203bf1e183277204eeb6cfb291b72c46b.jpeg&#34; alt=&#34;My Shiny Apps&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--- &lt;iframe width=&#34;1000&#34; height=&#34;200&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; src=&#34;https://sanktpetriskole.shinyapps.io/MyApp6/&#34;&gt;
+&lt;/iframe&gt; --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
